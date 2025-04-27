@@ -1,0 +1,9 @@
+Flask
+requests
+mysql-connector-python
+pytz
+geopy
+timezonefinder
+pandas
+matplotlib
+gunicorn
